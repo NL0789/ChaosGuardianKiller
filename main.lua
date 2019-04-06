@@ -1,3 +1,4 @@
+-- suggestion : use a golden lasso with a blockling who have a PSI gun for kill end crystals end chaos guardian ! (I think blocklings can use PSI)
 local component = require("component")
 local computer = require("computer")
 local sides = require("sides")
